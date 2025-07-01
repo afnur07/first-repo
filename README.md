@@ -1,2 +1,4 @@
 # first-repo
-first repository in gitHub
+This is my first git repository.
+<br>
+Author - Afnur Reja.
